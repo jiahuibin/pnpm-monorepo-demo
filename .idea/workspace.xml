@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="051b5faf-2429-4466-a45c-ffae129c5345" name="Changes" comment="feat: pnpm 包升级">
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="051b5faf-2429-4466-a45c-ffae129c5345" name="Changes" comment="feat: 装修业务组件库" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723793228758</updated>
-      <workItem from="1723793230393" duration="915000" />
+      <workItem from="1723793230393" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="feat: pnpm 包升级">
       <option name="closed" value="true" />
@@ -95,14 +93,25 @@
       <option name="project" value="LOCAL" />
       <updated>1723793400323</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: 装修业务组件库">
+      <option name="closed" value="true" />
+      <created>1723794638351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723794638351</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat: pnpm 包升级" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: pnpm 包升级" />
+    <MESSAGE value="feat: 装修业务组件库" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 装修业务组件库" />
   </component>
 </project>
